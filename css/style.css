@@ -18,7 +18,7 @@
     padding-bottom: 40px;
 }
 
-main{
+main, footer{
     margin-left: 1%;
     margin-right: 1%;
 }
@@ -74,4 +74,27 @@ th{
 
 .blue{
     background-color: #B1E5F2;
+}
+
+.footer__title{
+    color: #818181;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    
+}
+
+.footer__image1{ 
+    background-image: url(../img/monitor.jpg);   
+}
+
+.footer__image2{ 
+    background-image: url(../img/graph.jpg);  
+}
+
+footer>h4{
+    background-repeat: no-repeat;
+    height: 225px;
+    font-size: 150%;
+    color: white;
+    padding-left: 2%; 
 }
