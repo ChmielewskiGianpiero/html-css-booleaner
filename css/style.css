@@ -48,3 +48,14 @@ main{
     height: 600px; ;
     width:45% ;
 }
+
+.section2{
+    margin-top: 2%;
+}
+.evidenziato{
+    background: yellow;
+}
+
+.section2__lista{
+    margin-top: 2%;
+}
