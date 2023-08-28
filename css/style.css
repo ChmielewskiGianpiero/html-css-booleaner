@@ -1,3 +1,9 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
 .header{
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
@@ -7,7 +13,38 @@
 }
 
 .header__logo {
-    height: 80px;
-    padding-top: 60px;
-    padding-left: 10px;
+    height: 120%;
+    padding-top: 4%;
+    padding-left: 1%;
+    padding-bottom: 40px;
+}
+
+main{
+    margin-left: 1%;
+}
+.section1__title {
+    font-size: 400%;
+    padding-top: 15px;
+}
+
+.sottotitolo {
+    color: #838383;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.booleaner{
+    color: #6DC7EE;
+    font-weight: bold;
+}
+
+.section1__photo1{
+    height: 600px; ;
+    width:45% ;
+    margin-top: 1%;
+}
+
+.section1__photo2{
+    height: 600px; ;
+    width:45% ;
 }
